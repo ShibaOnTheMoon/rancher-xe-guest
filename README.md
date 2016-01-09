@@ -1,6 +1,6 @@
 ### rancher-xe-guest
 
-![RancherOS logo](https://github.com/HipsterWhale/rancher-xe-guest/blob/master/logo.png)
+![RancherOS logo](https://raw.githubusercontent.com/HipsterWhale/rancher-xe-guest/master/logo.png)
 
 This image provides the XenServer Guest Utils for RancherOS.
 
